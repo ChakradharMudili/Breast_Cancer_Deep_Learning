@@ -7,10 +7,12 @@ The code then loads the breast cancer images from the "benign" and "malignant" d
 Next, it defines functions for plotting the data and accuracy visualization. The Plot_data() function plots a grid of images using matplotlib. 
 
 Benign Data:
+
 ![download](https://github.com/ChakradharMudili/Breast_Cancer_Deep_Learning/assets/135093110/592ed000-acf6-45d3-a1be-ebe8ddbf5c5a)
 
 
 Malignant Data:
+
 ![download](https://github.com/ChakradharMudili/Breast_Cancer_Deep_Learning/assets/135093110/40bfeffc-96e4-493f-9037-b2438723455f)
 
 The accuracy_plot() function creates a plot to visualize the training and validation accuracy as well as the training and validation loss during the model training.
