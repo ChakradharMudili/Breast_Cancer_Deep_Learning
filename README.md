@@ -25,6 +25,33 @@ Afterwards, the code demonstrates the use of pre-trained models such as ResNet50
 
 Finally, the code creates plots to compare the training and validation accuracy of different models.
 
+CNN Model Accuracy:
+
+![download](https://github.com/ChakradharMudili/Breast_Cancer_Deep_Learning/assets/135093110/e6bb7719-5386-40e9-8dcf-e78df60aa323)
+
+
+Resnet50 Model Accuracy:
+
+![download](https://github.com/ChakradharMudili/Breast_Cancer_Deep_Learning/assets/135093110/4567f936-cca7-4198-931e-c46b07fde00d)
+
+
+DenseNet Model Accuracy:
+
+![download](https://github.com/ChakradharMudili/Breast_Cancer_Deep_Learning/assets/135093110/99d542f9-b5f0-4e16-ab2d-5f4ef46dfd99)
+
+MobileNet Model Accuracy:
+
+![download](https://github.com/ChakradharMudili/Breast_Cancer_Deep_Learning/assets/135093110/71d62d46-72b4-4d5a-a168-72dc911d4ed4)
+
+NasNet Large Model Accuracy:
+
+![download](https://github.com/ChakradharMudili/Breast_Cancer_Deep_Learning/assets/135093110/9b698252-0965-4fbd-89fa-64c14e8dfa78)
+
+NasNet Mobile Model Accuracy:
+
+![download](https://github.com/ChakradharMudili/Breast_Cancer_Deep_Learning/assets/135093110/26e4b1af-3784-4ba3-94d0-aa99569707d0)
+
+
 Overall, the code showcases the implementation of deep learning models and transfer learning techniques for breast cancer classification.
 
 
